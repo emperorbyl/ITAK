@@ -42,10 +42,10 @@ RM = "C:\Program Files (x86)\JetBrains\CLion 2016.3.3\bin\cmake\bin\cmake.exe" -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\benja\CLionProjects\ITAK
+CMAKE_SOURCE_DIR = C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\benja\CLionProjects\ITAK\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ITAK.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/ITAK.dir/flags.make
 
 CMakeFiles/ITAK.dir/main.cpp.obj: CMakeFiles/ITAK.dir/flags.make
 CMakeFiles/ITAK.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ITAK.dir/main.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\main.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ITAK.dir/main.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\main.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\main.cpp
 
 CMakeFiles/ITAK.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ITAK.dir/main.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\main.cpp > CMakeFiles\ITAK.dir\main.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\main.cpp > CMakeFiles\ITAK.dir\main.cpp.i
 
 CMakeFiles/ITAK.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ITAK.dir/main.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\main.cpp -o CMakeFiles\ITAK.dir\main.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\main.cpp -o CMakeFiles\ITAK.dir\main.cpp.s
 
 CMakeFiles/ITAK.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/ITAK.dir/main.cpp.obj.provides.build: CMakeFiles/ITAK.dir/main.cpp.ob
 
 CMakeFiles/ITAK.dir/Analyzer.cpp.obj: CMakeFiles/ITAK.dir/flags.make
 CMakeFiles/ITAK.dir/Analyzer.cpp.obj: ../Analyzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ITAK.dir/Analyzer.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\Analyzer.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Analyzer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ITAK.dir/Analyzer.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\Analyzer.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Analyzer.cpp
 
 CMakeFiles/ITAK.dir/Analyzer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ITAK.dir/Analyzer.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Analyzer.cpp > CMakeFiles\ITAK.dir\Analyzer.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Analyzer.cpp > CMakeFiles\ITAK.dir\Analyzer.cpp.i
 
 CMakeFiles/ITAK.dir/Analyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ITAK.dir/Analyzer.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Analyzer.cpp -o CMakeFiles\ITAK.dir\Analyzer.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Analyzer.cpp -o CMakeFiles\ITAK.dir\Analyzer.cpp.s
 
 CMakeFiles/ITAK.dir/Analyzer.cpp.obj.requires:
 
@@ -106,16 +106,16 @@ CMakeFiles/ITAK.dir/Analyzer.cpp.obj.provides.build: CMakeFiles/ITAK.dir/Analyze
 
 CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.obj: CMakeFiles/ITAK.dir/flags.make
 CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.obj: ../DenialOfServiceAnalyzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\DenialOfServiceAnalyzer.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\DenialOfServiceAnalyzer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\DenialOfServiceAnalyzer.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\DenialOfServiceAnalyzer.cpp
 
 CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\DenialOfServiceAnalyzer.cpp > CMakeFiles\ITAK.dir\DenialOfServiceAnalyzer.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\DenialOfServiceAnalyzer.cpp > CMakeFiles\ITAK.dir\DenialOfServiceAnalyzer.cpp.i
 
 CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\DenialOfServiceAnalyzer.cpp -o CMakeFiles\ITAK.dir\DenialOfServiceAnalyzer.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\DenialOfServiceAnalyzer.cpp -o CMakeFiles\ITAK.dir\DenialOfServiceAnalyzer.cpp.s
 
 CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.obj.requires:
 
@@ -130,16 +130,16 @@ CMakeFiles/ITAK.dir/DenialOfServiceAnalyzer.cpp.obj.provides.build: CMakeFiles/I
 
 CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.obj: CMakeFiles/ITAK.dir/flags.make
 CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.obj: ../PortScanAnalyzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\PortScanAnalyzer.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\PortScanAnalyzer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\PortScanAnalyzer.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\PortScanAnalyzer.cpp
 
 CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\PortScanAnalyzer.cpp > CMakeFiles\ITAK.dir\PortScanAnalyzer.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\PortScanAnalyzer.cpp > CMakeFiles\ITAK.dir\PortScanAnalyzer.cpp.i
 
 CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\PortScanAnalyzer.cpp -o CMakeFiles\ITAK.dir\PortScanAnalyzer.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\PortScanAnalyzer.cpp -o CMakeFiles\ITAK.dir\PortScanAnalyzer.cpp.s
 
 CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.obj.requires:
 
@@ -154,16 +154,16 @@ CMakeFiles/ITAK.dir/PortScanAnalyzer.cpp.obj.provides.build: CMakeFiles/ITAK.dir
 
 CMakeFiles/ITAK.dir/Algorithm.cpp.obj: CMakeFiles/ITAK.dir/flags.make
 CMakeFiles/ITAK.dir/Algorithm.cpp.obj: ../Algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ITAK.dir/Algorithm.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\Algorithm.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Algorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ITAK.dir/Algorithm.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\Algorithm.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Algorithm.cpp
 
 CMakeFiles/ITAK.dir/Algorithm.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ITAK.dir/Algorithm.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Algorithm.cpp > CMakeFiles\ITAK.dir\Algorithm.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Algorithm.cpp > CMakeFiles\ITAK.dir\Algorithm.cpp.i
 
 CMakeFiles/ITAK.dir/Algorithm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ITAK.dir/Algorithm.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Algorithm.cpp -o CMakeFiles\ITAK.dir\Algorithm.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Algorithm.cpp -o CMakeFiles\ITAK.dir\Algorithm.cpp.s
 
 CMakeFiles/ITAK.dir/Algorithm.cpp.obj.requires:
 
@@ -178,16 +178,16 @@ CMakeFiles/ITAK.dir/Algorithm.cpp.obj.provides.build: CMakeFiles/ITAK.dir/Algori
 
 CMakeFiles/ITAK.dir/Configuration.cpp.obj: CMakeFiles/ITAK.dir/flags.make
 CMakeFiles/ITAK.dir/Configuration.cpp.obj: ../Configuration.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ITAK.dir/Configuration.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\Configuration.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Configuration.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ITAK.dir/Configuration.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\Configuration.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Configuration.cpp
 
 CMakeFiles/ITAK.dir/Configuration.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ITAK.dir/Configuration.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Configuration.cpp > CMakeFiles\ITAK.dir\Configuration.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Configuration.cpp > CMakeFiles\ITAK.dir\Configuration.cpp.i
 
 CMakeFiles/ITAK.dir/Configuration.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ITAK.dir/Configuration.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Configuration.cpp -o CMakeFiles\ITAK.dir\Configuration.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Configuration.cpp -o CMakeFiles\ITAK.dir\Configuration.cpp.s
 
 CMakeFiles/ITAK.dir/Configuration.cpp.obj.requires:
 
@@ -202,16 +202,16 @@ CMakeFiles/ITAK.dir/Configuration.cpp.obj.provides.build: CMakeFiles/ITAK.dir/Co
 
 CMakeFiles/ITAK.dir/ResultSet.cpp.obj: CMakeFiles/ITAK.dir/flags.make
 CMakeFiles/ITAK.dir/ResultSet.cpp.obj: ../ResultSet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ITAK.dir/ResultSet.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\ResultSet.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\ResultSet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ITAK.dir/ResultSet.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\ResultSet.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\ResultSet.cpp
 
 CMakeFiles/ITAK.dir/ResultSet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ITAK.dir/ResultSet.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\ResultSet.cpp > CMakeFiles\ITAK.dir\ResultSet.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\ResultSet.cpp > CMakeFiles\ITAK.dir\ResultSet.cpp.i
 
 CMakeFiles/ITAK.dir/ResultSet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ITAK.dir/ResultSet.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\ResultSet.cpp -o CMakeFiles\ITAK.dir\ResultSet.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\ResultSet.cpp -o CMakeFiles\ITAK.dir\ResultSet.cpp.s
 
 CMakeFiles/ITAK.dir/ResultSet.cpp.obj.requires:
 
@@ -226,16 +226,16 @@ CMakeFiles/ITAK.dir/ResultSet.cpp.obj.provides.build: CMakeFiles/ITAK.dir/Result
 
 CMakeFiles/ITAK.dir/Utils.cpp.obj: CMakeFiles/ITAK.dir/flags.make
 CMakeFiles/ITAK.dir/Utils.cpp.obj: ../Utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ITAK.dir/Utils.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\Utils.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ITAK.dir/Utils.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ITAK.dir\Utils.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Utils.cpp
 
 CMakeFiles/ITAK.dir/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ITAK.dir/Utils.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Utils.cpp > CMakeFiles\ITAK.dir\Utils.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Utils.cpp > CMakeFiles\ITAK.dir\Utils.cpp.i
 
 CMakeFiles/ITAK.dir/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ITAK.dir/Utils.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Utils.cpp -o CMakeFiles\ITAK.dir\Utils.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Utils.cpp -o CMakeFiles\ITAK.dir\Utils.cpp.s
 
 CMakeFiles/ITAK.dir/Utils.cpp.obj.requires:
 
@@ -274,7 +274,7 @@ ITAK.exe: CMakeFiles/ITAK.dir/build.make
 ITAK.exe: CMakeFiles/ITAK.dir/linklibs.rsp
 ITAK.exe: CMakeFiles/ITAK.dir/objects1.rsp
 ITAK.exe: CMakeFiles/ITAK.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable ITAK.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable ITAK.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ITAK.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -298,6 +298,6 @@ CMakeFiles/ITAK.dir/clean:
 .PHONY : CMakeFiles/ITAK.dir/clean
 
 CMakeFiles/ITAK.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\benja\CLionProjects\ITAK C:\Users\benja\CLionProjects\ITAK C:\Users\benja\CLionProjects\ITAK\cmake-build-debug C:\Users\benja\CLionProjects\ITAK\cmake-build-debug C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles\ITAK.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles\ITAK.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ITAK.dir/depend
 

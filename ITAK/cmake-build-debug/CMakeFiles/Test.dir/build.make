@@ -42,10 +42,10 @@ RM = "C:\Program Files (x86)\JetBrains\CLion 2016.3.3\bin\cmake\bin\cmake.exe" -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\benja\CLionProjects\ITAK
+CMAKE_SOURCE_DIR = C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\benja\CLionProjects\ITAK\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Test.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/Test.dir/flags.make
 
 CMakeFiles/Test.dir/Testing/testMain.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Testing/testMain.cpp.obj: ../Testing/testMain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Test.dir/Testing/testMain.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\testMain.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Testing\testMain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Test.dir/Testing/testMain.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\testMain.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\testMain.cpp
 
 CMakeFiles/Test.dir/Testing/testMain.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Testing/testMain.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Testing\testMain.cpp > CMakeFiles\Test.dir\Testing\testMain.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\testMain.cpp > CMakeFiles\Test.dir\Testing\testMain.cpp.i
 
 CMakeFiles/Test.dir/Testing/testMain.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Testing/testMain.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Testing\testMain.cpp -o CMakeFiles\Test.dir\Testing\testMain.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\testMain.cpp -o CMakeFiles\Test.dir\Testing\testMain.cpp.s
 
 CMakeFiles/Test.dir/Testing/testMain.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/Test.dir/Testing/testMain.cpp.obj.provides.build: CMakeFiles/Test.dir
 
 CMakeFiles/Test.dir/Analyzer.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Analyzer.cpp.obj: ../Analyzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Test.dir/Analyzer.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Analyzer.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Analyzer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Test.dir/Analyzer.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Analyzer.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Analyzer.cpp
 
 CMakeFiles/Test.dir/Analyzer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Analyzer.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Analyzer.cpp > CMakeFiles\Test.dir\Analyzer.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Analyzer.cpp > CMakeFiles\Test.dir\Analyzer.cpp.i
 
 CMakeFiles/Test.dir/Analyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Analyzer.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Analyzer.cpp -o CMakeFiles\Test.dir\Analyzer.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Analyzer.cpp -o CMakeFiles\Test.dir\Analyzer.cpp.s
 
 CMakeFiles/Test.dir/Analyzer.cpp.obj.requires:
 
@@ -106,16 +106,16 @@ CMakeFiles/Test.dir/Analyzer.cpp.obj.provides.build: CMakeFiles/Test.dir/Analyze
 
 CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.obj: ../DenialOfServiceAnalyzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\DenialOfServiceAnalyzer.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\DenialOfServiceAnalyzer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\DenialOfServiceAnalyzer.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\DenialOfServiceAnalyzer.cpp
 
 CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\DenialOfServiceAnalyzer.cpp > CMakeFiles\Test.dir\DenialOfServiceAnalyzer.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\DenialOfServiceAnalyzer.cpp > CMakeFiles\Test.dir\DenialOfServiceAnalyzer.cpp.i
 
 CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\DenialOfServiceAnalyzer.cpp -o CMakeFiles\Test.dir\DenialOfServiceAnalyzer.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\DenialOfServiceAnalyzer.cpp -o CMakeFiles\Test.dir\DenialOfServiceAnalyzer.cpp.s
 
 CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.obj.requires:
 
@@ -130,16 +130,16 @@ CMakeFiles/Test.dir/DenialOfServiceAnalyzer.cpp.obj.provides.build: CMakeFiles/T
 
 CMakeFiles/Test.dir/PortScanAnalyzer.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/PortScanAnalyzer.cpp.obj: ../PortScanAnalyzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Test.dir/PortScanAnalyzer.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\PortScanAnalyzer.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\PortScanAnalyzer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Test.dir/PortScanAnalyzer.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\PortScanAnalyzer.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\PortScanAnalyzer.cpp
 
 CMakeFiles/Test.dir/PortScanAnalyzer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/PortScanAnalyzer.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\PortScanAnalyzer.cpp > CMakeFiles\Test.dir\PortScanAnalyzer.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\PortScanAnalyzer.cpp > CMakeFiles\Test.dir\PortScanAnalyzer.cpp.i
 
 CMakeFiles/Test.dir/PortScanAnalyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/PortScanAnalyzer.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\PortScanAnalyzer.cpp -o CMakeFiles\Test.dir\PortScanAnalyzer.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\PortScanAnalyzer.cpp -o CMakeFiles\Test.dir\PortScanAnalyzer.cpp.s
 
 CMakeFiles/Test.dir/PortScanAnalyzer.cpp.obj.requires:
 
@@ -154,16 +154,16 @@ CMakeFiles/Test.dir/PortScanAnalyzer.cpp.obj.provides.build: CMakeFiles/Test.dir
 
 CMakeFiles/Test.dir/Algorithm.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Algorithm.cpp.obj: ../Algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Test.dir/Algorithm.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Algorithm.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Algorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Test.dir/Algorithm.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Algorithm.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Algorithm.cpp
 
 CMakeFiles/Test.dir/Algorithm.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Algorithm.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Algorithm.cpp > CMakeFiles\Test.dir\Algorithm.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Algorithm.cpp > CMakeFiles\Test.dir\Algorithm.cpp.i
 
 CMakeFiles/Test.dir/Algorithm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Algorithm.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Algorithm.cpp -o CMakeFiles\Test.dir\Algorithm.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Algorithm.cpp -o CMakeFiles\Test.dir\Algorithm.cpp.s
 
 CMakeFiles/Test.dir/Algorithm.cpp.obj.requires:
 
@@ -178,16 +178,16 @@ CMakeFiles/Test.dir/Algorithm.cpp.obj.provides.build: CMakeFiles/Test.dir/Algori
 
 CMakeFiles/Test.dir/Configuration.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Configuration.cpp.obj: ../Configuration.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Test.dir/Configuration.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Configuration.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Configuration.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Test.dir/Configuration.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Configuration.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Configuration.cpp
 
 CMakeFiles/Test.dir/Configuration.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Configuration.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Configuration.cpp > CMakeFiles\Test.dir\Configuration.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Configuration.cpp > CMakeFiles\Test.dir\Configuration.cpp.i
 
 CMakeFiles/Test.dir/Configuration.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Configuration.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Configuration.cpp -o CMakeFiles\Test.dir\Configuration.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Configuration.cpp -o CMakeFiles\Test.dir\Configuration.cpp.s
 
 CMakeFiles/Test.dir/Configuration.cpp.obj.requires:
 
@@ -202,16 +202,16 @@ CMakeFiles/Test.dir/Configuration.cpp.obj.provides.build: CMakeFiles/Test.dir/Co
 
 CMakeFiles/Test.dir/ResultSet.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/ResultSet.cpp.obj: ../ResultSet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Test.dir/ResultSet.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\ResultSet.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\ResultSet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Test.dir/ResultSet.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\ResultSet.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\ResultSet.cpp
 
 CMakeFiles/Test.dir/ResultSet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/ResultSet.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\ResultSet.cpp > CMakeFiles\Test.dir\ResultSet.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\ResultSet.cpp > CMakeFiles\Test.dir\ResultSet.cpp.i
 
 CMakeFiles/Test.dir/ResultSet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/ResultSet.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\ResultSet.cpp -o CMakeFiles\Test.dir\ResultSet.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\ResultSet.cpp -o CMakeFiles\Test.dir\ResultSet.cpp.s
 
 CMakeFiles/Test.dir/ResultSet.cpp.obj.requires:
 
@@ -226,16 +226,16 @@ CMakeFiles/Test.dir/ResultSet.cpp.obj.provides.build: CMakeFiles/Test.dir/Result
 
 CMakeFiles/Test.dir/Utils.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Utils.cpp.obj: ../Utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Test.dir/Utils.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Utils.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Test.dir/Utils.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Utils.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Utils.cpp
 
 CMakeFiles/Test.dir/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Utils.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Utils.cpp > CMakeFiles\Test.dir\Utils.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Utils.cpp > CMakeFiles\Test.dir\Utils.cpp.i
 
 CMakeFiles/Test.dir/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Utils.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Utils.cpp -o CMakeFiles\Test.dir\Utils.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Utils.cpp -o CMakeFiles\Test.dir\Utils.cpp.s
 
 CMakeFiles/Test.dir/Utils.cpp.obj.requires:
 
@@ -250,16 +250,16 @@ CMakeFiles/Test.dir/Utils.cpp.obj.provides.build: CMakeFiles/Test.dir/Utils.cpp.
 
 CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.obj: ../Testing/TestingDictionary.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingDictionary.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Testing\TestingDictionary.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingDictionary.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingDictionary.cpp
 
 CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Testing\TestingDictionary.cpp > CMakeFiles\Test.dir\Testing\TestingDictionary.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingDictionary.cpp > CMakeFiles\Test.dir\Testing\TestingDictionary.cpp.i
 
 CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Testing\TestingDictionary.cpp -o CMakeFiles\Test.dir\Testing\TestingDictionary.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingDictionary.cpp -o CMakeFiles\Test.dir\Testing\TestingDictionary.cpp.s
 
 CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.obj.requires:
 
@@ -274,16 +274,16 @@ CMakeFiles/Test.dir/Testing/TestingDictionary.cpp.obj.provides.build: CMakeFiles
 
 CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.obj: ../Testing/TestingAlgorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingAlgorithm.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Testing\TestingAlgorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingAlgorithm.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingAlgorithm.cpp
 
 CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Testing\TestingAlgorithm.cpp > CMakeFiles\Test.dir\Testing\TestingAlgorithm.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingAlgorithm.cpp > CMakeFiles\Test.dir\Testing\TestingAlgorithm.cpp.i
 
 CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Testing\TestingAlgorithm.cpp -o CMakeFiles\Test.dir\Testing\TestingAlgorithm.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingAlgorithm.cpp -o CMakeFiles\Test.dir\Testing\TestingAlgorithm.cpp.s
 
 CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.obj.requires:
 
@@ -298,16 +298,16 @@ CMakeFiles/Test.dir/Testing/TestingAlgorithm.cpp.obj.provides.build: CMakeFiles/
 
 CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.obj: ../Testing/TestAnalyzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestAnalyzer.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Testing\TestAnalyzer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestAnalyzer.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestAnalyzer.cpp
 
 CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Testing\TestAnalyzer.cpp > CMakeFiles\Test.dir\Testing\TestAnalyzer.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestAnalyzer.cpp > CMakeFiles\Test.dir\Testing\TestAnalyzer.cpp.i
 
 CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Testing\TestAnalyzer.cpp -o CMakeFiles\Test.dir\Testing\TestAnalyzer.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestAnalyzer.cpp -o CMakeFiles\Test.dir\Testing\TestAnalyzer.cpp.s
 
 CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.obj.requires:
 
@@ -322,16 +322,16 @@ CMakeFiles/Test.dir/Testing/TestAnalyzer.cpp.obj.provides.build: CMakeFiles/Test
 
 CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.obj: ../Testing/TestingConfiguration.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingConfiguration.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Testing\TestingConfiguration.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingConfiguration.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingConfiguration.cpp
 
 CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Testing\TestingConfiguration.cpp > CMakeFiles\Test.dir\Testing\TestingConfiguration.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingConfiguration.cpp > CMakeFiles\Test.dir\Testing\TestingConfiguration.cpp.i
 
 CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Testing\TestingConfiguration.cpp -o CMakeFiles\Test.dir\Testing\TestingConfiguration.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingConfiguration.cpp -o CMakeFiles\Test.dir\Testing\TestingConfiguration.cpp.s
 
 CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.obj.requires:
 
@@ -346,16 +346,16 @@ CMakeFiles/Test.dir/Testing/TestingConfiguration.cpp.obj.provides.build: CMakeFi
 
 CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.obj: ../Testing/TestingDenialOfService.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingDenialOfService.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Testing\TestingDenialOfService.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingDenialOfService.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingDenialOfService.cpp
 
 CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Testing\TestingDenialOfService.cpp > CMakeFiles\Test.dir\Testing\TestingDenialOfService.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingDenialOfService.cpp > CMakeFiles\Test.dir\Testing\TestingDenialOfService.cpp.i
 
 CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Testing\TestingDenialOfService.cpp -o CMakeFiles\Test.dir\Testing\TestingDenialOfService.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingDenialOfService.cpp -o CMakeFiles\Test.dir\Testing\TestingDenialOfService.cpp.s
 
 CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.obj.requires:
 
@@ -370,16 +370,16 @@ CMakeFiles/Test.dir/Testing/TestingDenialOfService.cpp.obj.provides.build: CMake
 
 CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.obj: ../Testing/TestingPortScan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingPortScan.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Testing\TestingPortScan.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingPortScan.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingPortScan.cpp
 
 CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Testing\TestingPortScan.cpp > CMakeFiles\Test.dir\Testing\TestingPortScan.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingPortScan.cpp > CMakeFiles\Test.dir\Testing\TestingPortScan.cpp.i
 
 CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Testing\TestingPortScan.cpp -o CMakeFiles\Test.dir\Testing\TestingPortScan.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingPortScan.cpp -o CMakeFiles\Test.dir\Testing\TestingPortScan.cpp.s
 
 CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.obj.requires:
 
@@ -394,16 +394,16 @@ CMakeFiles/Test.dir/Testing/TestingPortScan.cpp.obj.provides.build: CMakeFiles/T
 
 CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.obj: CMakeFiles/Test.dir/flags.make
 CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.obj: ../Testing/TestingResultSet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.obj"
-	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingResultSet.cpp.obj -c C:\Users\benja\CLionProjects\ITAK\Testing\TestingResultSet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.obj"
+	C:\mingw32\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test.dir\Testing\TestingResultSet.cpp.obj -c C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingResultSet.cpp
 
 CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.i"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\CLionProjects\ITAK\Testing\TestingResultSet.cpp > CMakeFiles\Test.dir\Testing\TestingResultSet.cpp.i
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingResultSet.cpp > CMakeFiles\Test.dir\Testing\TestingResultSet.cpp.i
 
 CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.s"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\CLionProjects\ITAK\Testing\TestingResultSet.cpp -o CMakeFiles\Test.dir\Testing\TestingResultSet.cpp.s
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\Testing\TestingResultSet.cpp -o CMakeFiles\Test.dir\Testing\TestingResultSet.cpp.s
 
 CMakeFiles/Test.dir/Testing/TestingResultSet.cpp.obj.requires:
 
@@ -456,7 +456,7 @@ Test.exe: CMakeFiles/Test.dir/build.make
 Test.exe: CMakeFiles/Test.dir/linklibs.rsp
 Test.exe: CMakeFiles/Test.dir/objects1.rsp
 Test.exe: CMakeFiles/Test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable Test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable Test.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Test.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -487,6 +487,6 @@ CMakeFiles/Test.dir/clean:
 .PHONY : CMakeFiles/Test.dir/clean
 
 CMakeFiles/Test.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\benja\CLionProjects\ITAK C:\Users\benja\CLionProjects\ITAK C:\Users\benja\CLionProjects\ITAK\cmake-build-debug C:\Users\benja\CLionProjects\ITAK\cmake-build-debug C:\Users\benja\CLionProjects\ITAK\cmake-build-debug\CMakeFiles\Test.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug C:\Users\benja\OneDrive\Documentos\GitHub\ITAK\ITAK\cmake-build-debug\CMakeFiles\Test.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Test.dir/depend
 

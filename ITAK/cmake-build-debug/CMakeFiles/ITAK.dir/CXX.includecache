@@ -6,101 +6,101 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/benja/CLionProjects/ITAK/Algorithm.cpp
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Algorithm.cpp
 Algorithm.h
-C:/Users/benja/CLionProjects/ITAK/Algorithm.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Algorithm.h
 
-C:/Users/benja/CLionProjects/ITAK/Algorithm.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Algorithm.h
 PortScanAnalyzer.h
-C:/Users/benja/CLionProjects/ITAK/PortScanAnalyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/PortScanAnalyzer.h
 DenialOfServiceAnalyzer.h
-C:/Users/benja/CLionProjects/ITAK/DenialOfServiceAnalyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/DenialOfServiceAnalyzer.h
 Analyzer.h
-C:/Users/benja/CLionProjects/ITAK/Analyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Analyzer.h
 
-C:/Users/benja/CLionProjects/ITAK/Analyzer.cpp
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Analyzer.cpp
 Analyzer.h
-C:/Users/benja/CLionProjects/ITAK/Analyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Analyzer.h
 
-C:/Users/benja/CLionProjects/ITAK/Analyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Analyzer.h
 Dictionary.h
-C:/Users/benja/CLionProjects/ITAK/Dictionary.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Dictionary.h
 Configuration.h
-C:/Users/benja/CLionProjects/ITAK/Configuration.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Configuration.h
 fstream
 -
 Utils.h
-C:/Users/benja/CLionProjects/ITAK/Utils.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Utils.h
 ResultSet.h
-C:/Users/benja/CLionProjects/ITAK/ResultSet.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/ResultSet.h
 
-C:/Users/benja/CLionProjects/ITAK/Configuration.cpp
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Configuration.cpp
 Configuration.h
-C:/Users/benja/CLionProjects/ITAK/Configuration.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Configuration.h
 
-C:/Users/benja/CLionProjects/ITAK/Configuration.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Configuration.h
 string
 -
 Dictionary.h
-C:/Users/benja/CLionProjects/ITAK/Dictionary.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Dictionary.h
 Utils.h
-C:/Users/benja/CLionProjects/ITAK/Utils.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Utils.h
 KeyValue.h
-C:/Users/benja/CLionProjects/ITAK/KeyValue.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/KeyValue.h
 
-C:/Users/benja/CLionProjects/ITAK/Container.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Container.h
 iostream
 -
 
-C:/Users/benja/CLionProjects/ITAK/DenialOfServiceAnalyzer.cpp
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/DenialOfServiceAnalyzer.cpp
 DenialOfServiceAnalyzer.h
-C:/Users/benja/CLionProjects/ITAK/DenialOfServiceAnalyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/DenialOfServiceAnalyzer.h
 
-C:/Users/benja/CLionProjects/ITAK/DenialOfServiceAnalyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/DenialOfServiceAnalyzer.h
 Analyzer.h
-C:/Users/benja/CLionProjects/ITAK/Analyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Analyzer.h
 string
 -
 vector
 -
 
-C:/Users/benja/CLionProjects/ITAK/Dictionary.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Dictionary.h
 string
 -
 KeyValue.h
-C:/Users/benja/CLionProjects/ITAK/KeyValue.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/KeyValue.h
 Container.h
-C:/Users/benja/CLionProjects/ITAK/Container.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Container.h
 vector
 -
 iostream
 -
 
-C:/Users/benja/CLionProjects/ITAK/KeyValue.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/KeyValue.h
 string
 -
 
-C:/Users/benja/CLionProjects/ITAK/PortScanAnalyzer.cpp
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/PortScanAnalyzer.cpp
 PortScanAnalyzer.h
-C:/Users/benja/CLionProjects/ITAK/PortScanAnalyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/PortScanAnalyzer.h
 
-C:/Users/benja/CLionProjects/ITAK/PortScanAnalyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/PortScanAnalyzer.h
 vector
 -
 Analyzer.h
-C:/Users/benja/CLionProjects/ITAK/Analyzer.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Analyzer.h
 
-C:/Users/benja/CLionProjects/ITAK/ResultSet.cpp
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/ResultSet.cpp
 ResultSet.h
-C:/Users/benja/CLionProjects/ITAK/ResultSet.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/ResultSet.h
 
-C:/Users/benja/CLionProjects/ITAK/ResultSet.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/ResultSet.h
 vector
 -
 Dictionary.h
-C:/Users/benja/CLionProjects/ITAK/Dictionary.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Dictionary.h
 
-C:/Users/benja/CLionProjects/ITAK/Utils.cpp
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Utils.cpp
 algorithm
 -
 iostream
@@ -116,15 +116,15 @@ cmath
 limits
 -
 Utils.h
-C:/Users/benja/CLionProjects/ITAK/Utils.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Utils.h
 
-C:/Users/benja/CLionProjects/ITAK/Utils.h
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/Utils.h
 string
 -
 fstream
 -
 
-C:/Users/benja/CLionProjects/ITAK/main.cpp
+C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/main.cpp
 iostream
 -
 

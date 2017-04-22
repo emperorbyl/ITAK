@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/benja/CLionProjects/ITAK
+# Install script for directory: C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/benja/OneDrive/Documentos/GitHub/ITAK/ITAK/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
