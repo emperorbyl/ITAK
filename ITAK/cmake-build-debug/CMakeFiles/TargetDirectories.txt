@@ -1,0 +1,4 @@
+C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/CMakeFiles/ITAK.dir
+C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/CMakeFiles/Test.dir

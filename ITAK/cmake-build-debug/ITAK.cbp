@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ITAK"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ITAK">
+				<Option output="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/ITAK.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 ITAK"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ITAK/fast">
+				<Option output="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/ITAK.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 ITAK/fast"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/benja/CLionProjects/ITAK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/benja/CLionProjects/ITAK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Algorithm.cpp">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Algorithm.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Analyzer.cpp">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Analyzer.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Configuration.cpp">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Configuration.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Container.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/DenialOfServiceAnalyzer.cpp">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/DenialOfServiceAnalyzer.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Dictionary.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/KeyValue.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/PortScanAnalyzer.cpp">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/PortScanAnalyzer.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/ResultSet.cpp">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/ResultSet.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestAnalyzer.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestAnalyzer.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingAlgorithm.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingAlgorithm.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingConfiguration.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingConfiguration.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingDenialOfService.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingDenialOfService.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingDictionary.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingDictionary.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingPortScan.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingPortScan.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingResultSet.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/TestingResultSet.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Testing/testMain.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Utils.cpp">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/Utils.h">
+			<Option target="ITAK"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/main.cpp">
+			<Option target="ITAK"/>
+		</Unit>
+		<Unit filename="C:/Users/benja/CLionProjects/ITAK/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
